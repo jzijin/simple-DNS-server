@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 1970-01-01 08:00:00
- * @LastEditTime: 2020-07-02 10:03:55
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /DNS_Server/dns_header.h
- */ 
 #ifndef DNS
 #define DNS
 
